@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I'm Sovichet Hong 👋
+I am a first year Science of Information Technology Master. Apart from that I am Backend developer at Wing Bank (Cambodia) Plc.
 
 <!--
 **SovichetHong/SovichetHong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
