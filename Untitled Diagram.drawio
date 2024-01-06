@@ -1,9 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2024-01-06T15:19:18.763Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.17" etag="GbQ0CTUbxWq6eQsc29nn" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-06T15:27:37.015Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="eXvEUcrfu8nVEV2fKDud" version="22.1.17" type="github">
   <diagram name="Page-1" id="2qxk2k01QIwZFrgGB2o0">
-    <mxGraphModel>
+    <mxGraphModel dx="989" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="46ex9MSNE1FA2S3iVDNR-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="46ex9MSNE1FA2S3iVDNR-6" target="46ex9MSNE1FA2S3iVDNR-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="46ex9MSNE1FA2S3iVDNR-3" value="PostgreSQL " style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_PostgreSQL_Server.svg;" vertex="1" parent="1">
+          <mxGeometry x="140" y="213" width="48" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="46ex9MSNE1FA2S3iVDNR-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="46ex9MSNE1FA2S3iVDNR-9" target="46ex9MSNE1FA2S3iVDNR-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="198" y="248" as="sourcePoint" />
+            <mxPoint x="490" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="46ex9MSNE1FA2S3iVDNR-6" value=" load balance" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.elastic_load_balancing;fillColor=#F58534;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="300" width="60" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="46ex9MSNE1FA2S3iVDNR-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="46ex9MSNE1FA2S3iVDNR-3" target="46ex9MSNE1FA2S3iVDNR-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="188" y="245" as="sourcePoint" />
+            <mxPoint x="480" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="46ex9MSNE1FA2S3iVDNR-9" value="API gateway" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.api_gateway;fillColor=#D9A741;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="300" y="204.25" width="66.5" height="81.5" as="geometry" />
+        </mxCell>
+        <mxCell id="46ex9MSNE1FA2S3iVDNR-2" value="microservices" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.security_icons.cloud_based;" vertex="1" parent="1">
+          <mxGeometry x="660" y="305" width="80" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
