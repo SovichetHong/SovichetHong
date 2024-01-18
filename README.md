@@ -30,7 +30,6 @@ When I'm not coding, I enjoy surfing the internet, traveling, camping, and keepi
 
 ## Connect with me
 
-- Email: [sovichet.hong168@gmail.com](mailto:sovichet.hong168@gmail.com)
 - LinkedIn: [linkedin.com/in/sovichet-hong](https://www.linkedin.com/in/sovichet-hong/)
 
 ![Hong Sovichet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true)
