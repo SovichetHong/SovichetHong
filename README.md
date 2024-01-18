@@ -32,8 +32,6 @@ When I'm not coding, I enjoy surfing the internet, traveling, camping, and keepi
 
 - LinkedIn: [linkedin.com/in/sovichet-hong](https://www.linkedin.com/in/sovichet-hong/)
 
-![Hong Sovichet's GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true)
-
 ---
 
 © 2024 Hong Sovichet
